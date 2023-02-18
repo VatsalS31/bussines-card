@@ -10,7 +10,7 @@ body {
 
 .avatar {
     width: 150px;
-    border-radius: 20px ;
+    border-radius: 60px ;
     object-fit: contain;
     height: 170px;
 
